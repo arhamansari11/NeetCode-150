@@ -2,7 +2,7 @@
 
 Welcome to the Data Structures and Algorithms (DSA) learning repository! This repository is dedicated to providing resources and solutions for learning DSA topics using the neetcode platform.
 
-## About neetcode
+## About Neetcode
 neetcode is a popular platform for learning and practicing Data Structures and Algorithms. It provides a variety of problems, challenges, and tutorials to help learners improve their DSA skills.
 
 ## Topics Covered
