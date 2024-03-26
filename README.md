@@ -1,9 +1,9 @@
 # Data Structures and Algorithms (DSA) Learning Repository
 
-Welcome to the Data Structures and Algorithms (DSA) learning repository! This repository is dedicated to providing resources and solutions for learning DSA topics including Arrays & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Heap / Priority Queue, Backtracking, Tries, Graphs, 1-D Dynamic Programming, 2-D Dynamic Programming, Greedy, Intervals, Math & Geometry, and Bit Manipulation.
+Welcome to the Data Structures and Algorithms (DSA) learning repository! This repository is dedicated to providing resources and solutions for learning DSA topics using the neetcode platform.
 
-## About DSA Learning
-Data Structures and Algorithms (DSA) are fundamental concepts in computer science and play a vital role in software development. Mastery of DSA enables efficient problem-solving and algorithmic thinking, essential skills for building robust and scalable software solutions.
+## About neetcode
+neetcode is a popular platform for learning and practicing Data Structures and Algorithms. It provides a variety of problems, challenges, and tutorials to help learners improve their DSA skills.
 
 ## Topics Covered
 This repository covers a wide range of DSA topics, including:
