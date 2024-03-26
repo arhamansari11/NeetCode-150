@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) Learning Repository
+# NeetCode-150 Questions Solutions Repository
 
 Welcome to the Data Structures and Algorithms (DSA) learning repository! This repository is dedicated to providing resources and solutions for learning DSA topics using the neetcode platform.
 
