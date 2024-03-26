@@ -1,45 +1,35 @@
-# JAVA_DSA ( Data Structure and Algorithm ).
+# Data Structures and Algorithms (DSA) Learning Repository
 
-This repository contains JAVA code that I have written to solve DSA problems on LeetCode. Each solution is organized by DSA concept and is meant to showcase my understanding and proficiency in implementing these concepts. The purpose of this repository is to serve as a reference for everyone who is interested in learning DSA through LeetCode.
+Welcome to the Data Structures and Algorithms (DSA) learning repository! This repository is dedicated to providing resources and solutions for learning DSA topics including Arrays & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Heap / Priority Queue, Backtracking, Tries, Graphs, 1-D Dynamic Programming, 2-D Dynamic Programming, Greedy, Intervals, Math & Geometry, and Bit Manipulation.
 
-# Repository Outline
-The Repository is divided into several sections that cover the following topics:
+## About DSA Learning
+Data Structures and Algorithms (DSA) are fundamental concepts in computer science and play a vital role in software development. Mastery of DSA enables efficient problem-solving and algorithmic thinking, essential skills for building robust and scalable software solutions.
 
-<ul>  
-    <li>Introduction to Programming </li>
-    <li>Introduction to JAVA</li>
-    <li>Variables and Data Types </li>
-    <li>Control Structures (if-else, loops, etc.)</li>
-    <li>Bitwise Operators,Operator Precedence & Variable Scoping</li>
-    <li>Functions</li>
-    <li>Arrays and Strings</li>
-    <li>Linear and Binary Search</li>
-    <li>Sorting and Patterns</li>
-    <li>Recursion and Complexity</li>
-    <li>LinkedList , Stacks and Trees</li>
-    <li>OOP Concepts (classes, objects, inheritance, polymorphism, etc.)</li>
+## Topics Covered
+This repository covers a wide range of DSA topics, including:
 
-## Note : More Topics will be added time by time by time.
-</ul> 
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stack
+- Binary Search
+- Linked List
+- Trees
+- Heap / Priority Queue
+- Backtracking
+- Tries
+- Graphs
+- 1-D Dynamic Programming
+- 2-D Dynamic Programming
+- Greedy
+- Intervals
+- Math & Geometry
+- Bit Manipulation
 
-# Prerequisites
-Before starting the Repository, it is recommended that you have a basic understanding of computer programming concepts and familiarity with any programming language.
+## Purpose of this Repository
+The primary purpose of this repository is to provide comprehensive resources, explanations, and solutions for learning and mastering various DSA topics. Whether you're a beginner seeking to understand basic concepts or an experienced developer looking to enhance your problem-solving skills, this repository aims to support your learning journey.
 
-# Requirements
-<ul>
-<li>A computer with an internet connection</li>
-<li>A text editor (e.g. Visual Studio Code, Sublime Text, etc.)</li>
-<li>A compiler (e.g. GCC, Visual Studio, etc.)</li>
-</ul>
-
-
-# Contributions
-
-Contributions to the Repository are welcome. If you find any errors or have suggestions for improvements, please submit a pull request or open an issue.
-
-# Disclaimer
-This Repository is provided as-is and does not guarantee a certain level of expertise in C++ programming. It is up to the individual to make the most of the material provided and practice regularly.
-
-
-
+## Contents
+1. **Problem Solutions**: Solutions to DSA problems and challenges covering a wide range of topics.
+2. **Code Examples**: Implementation examples demonstrating key DSA concepts and techniques.
 
